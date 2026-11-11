@@ -1,1 +1,65 @@
+body {
+    background-color: rgba(116, 71, 71, 0.74);
+    color: rgba(95, 35, 35, 0.836);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0%;
+}
 
+header {
+    background-color: rgb(119, 75, 75);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 30px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    color: rgb(71, 55, 55);
+}
+
+p {
+ font-size: 18px;
+ line-height: 1.6;
+}
+
+nav {
+    margin-top: 20px;
+}
+ 
+nav a {
+    color: rgb(102, 88, 88);
+    text-decoration: none;
+    background-color: rgb(97, 75, 75);
+    padding: 10px 15px;
+    border-radius: 8px;
+    margin: 5px;
+    display: inline-block;
+}
+
+nav a:hover {
+    background-color: rgb(66, 48, 48);
+}
+
+main {
+    width: 80%;
+    margin: auto;
+
+}
+
+section {
+    background-color: rgb(248, 252, 255);
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 12px;
+
+}
+ img {
+    width: 100%;
+    max-width: 600px;
+    display: block;
+    margin: auto;
+    border-radius: 12px;
+    }
