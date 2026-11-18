@@ -63,3 +63,10 @@ section {
     margin: auto;
     border-radius: 12px;
     }
+
+    figcaption {
+        text-align: center;
+        font-size: 14px;
+        color: rgba(56, 16, 16, 0.582);
+        margin-top: 8px;
+    }
